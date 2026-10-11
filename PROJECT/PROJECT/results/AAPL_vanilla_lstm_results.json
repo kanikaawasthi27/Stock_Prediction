@@ -1,0 +1,17 @@
+{
+    "ticker": "AAPL",
+    "model": "Vanilla LSTM",
+    "MAE": 16.982248602528628,
+    "RMSE": 20.537192277346985,
+    "MAPE": 5.540351283189273,
+    "sequence_length": 60,
+    "features": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+    ],
+    "epochs": 12,
+    "created_on": "2026-10-07 19:37:21"
+}

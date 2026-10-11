@@ -1,0 +1,17 @@
+{
+    "ticker": "AAPL",
+    "model": "LSTM with Temporal Attention",
+    "MAE": 21.995425687043607,
+    "RMSE": 26.918973119646147,
+    "MAPE": 7.179784738095073,
+    "sequence_length": 60,
+    "features": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+    ],
+    "epochs": 12,
+    "created_on": "2026-10-07 19:44:24"
+}

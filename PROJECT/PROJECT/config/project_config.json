@@ -1,0 +1,33 @@
+{
+    "data_source": "Yahoo Finance",
+    "data_library": "yfinance",
+    "features": [
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+    ],
+    "target": "Close",
+    "sequence_length": 60,
+    "train_ratio": 0.7,
+    "validation_ratio": 0.15,
+    "test_ratio": 0.15,
+    "lstm_units": 64,
+    "dropout": 0.2,
+    "dense_units": 32,
+    "epochs": 30,
+    "batch_size": 64,
+    "learning_rate": 0.001,
+    "early_stopping_patience": 5,
+    "default_prediction_horizon": 1,
+    "supported_prediction_horizons": [
+        1,
+        5,
+        7,
+        30
+    ],
+    "model_name": "LSTM with Temporal Attention",
+    "baseline_model_name": "Vanilla LSTM",
+    "created_on": "2026-10-07 19:10:46"
+}

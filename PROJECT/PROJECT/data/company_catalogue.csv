@@ -1,0 +1,46 @@
+name,ticker,exchange,country,currency
+Apple Inc.,AAPL,NASDAQ,USA,USD
+Microsoft Corporation,MSFT,NASDAQ,USA,USD
+NVIDIA Corporation,NVDA,NASDAQ,USA,USD
+Amazon.com Inc.,AMZN,NASDAQ,USA,USD
+Tesla Inc.,TSLA,NASDAQ,USA,USD
+Alphabet Inc.,GOOGL,NASDAQ,USA,USD
+Meta Platforms Inc.,META,NASDAQ,USA,USD
+Netflix Inc.,NFLX,NASDAQ,USA,USD
+Adobe Inc.,ADBE,NASDAQ,USA,USD
+Intel Corporation,INTC,NASDAQ,USA,USD
+Advanced Micro Devices Inc.,AMD,NASDAQ,USA,USD
+PayPal Holdings Inc.,PYPL,NASDAQ,USA,USD
+Coca-Cola Company,KO,NYSE,USA,USD
+Walmart Inc.,WMT,NYSE,USA,USD
+McDonald's Corporation,MCD,NYSE,USA,USD
+Nike Inc.,NKE,NYSE,USA,USD
+JPMorgan Chase & Co.,JPM,NYSE,USA,USD
+Bank of America Corporation,BAC,NYSE,USA,USD
+Visa Inc.,V,NYSE,USA,USD
+Mastercard Incorporated,MA,NYSE,USA,USD
+Reliance Industries Limited,RELIANCE.NS,NSE,India,INR
+Tata Consultancy Services Limited,TCS.NS,NSE,India,INR
+Infosys Limited,INFY.NS,NSE,India,INR
+HDFC Bank Limited,HDFCBANK.NS,NSE,India,INR
+ICICI Bank Limited,ICICIBANK.NS,NSE,India,INR
+State Bank of India,SBIN.NS,NSE,India,INR
+Larsen & Toubro Limited,LT.NS,NSE,India,INR
+Bharti Airtel Limited,BHARTIARTL.NS,NSE,India,INR
+ITC Limited,ITC.NS,NSE,India,INR
+Hindustan Unilever Limited,HINDUNILVR.NS,NSE,India,INR
+Tata Motors Limited,TATAMOTORS.NS,NSE,India,INR
+Mahindra & Mahindra Limited,M&M.NS,NSE,India,INR
+Maruti Suzuki India Limited,MARUTI.NS,NSE,India,INR
+Asian Paints Limited,ASIANPAINT.NS,NSE,India,INR
+Titan Company Limited,TITAN.NS,NSE,India,INR
+Bajaj Finance Limited,BAJFINANCE.NS,NSE,India,INR
+HCL Technologies Limited,HCLTECH.NS,NSE,India,INR
+Wipro Limited,WIPRO.NS,NSE,India,INR
+Tech Mahindra Limited,TECHM.NS,NSE,India,INR
+Sun Pharmaceutical Industries Limited,SUNPHARMA.NS,NSE,India,INR
+Toyota Motor Corporation,TM,NYSE,Japan,USD
+Sony Group Corporation,SONY,NYSE,Japan,USD
+Alibaba Group Holding Limited,BABA,NYSE,China,USD
+JD.com Inc.,JD,NASDAQ,China,USD
+Samsung Electronics,005930.KS,KSE,South Korea,KRW

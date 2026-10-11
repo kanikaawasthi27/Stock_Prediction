@@ -1,0 +1,13 @@
+name,ticker,exchange,country,currency
+Apple Inc.,AAPL,NASDAQ,USA,USD
+Microsoft Corporation,MSFT,NASDAQ,USA,USD
+NVIDIA Corporation,NVDA,NASDAQ,USA,USD
+Amazon.com Inc.,AMZN,NASDAQ,USA,USD
+Tesla Inc.,TSLA,NASDAQ,USA,USD
+Alphabet Inc.,GOOGL,NASDAQ,USA,USD
+Reliance Industries Limited,RELIANCE.NS,NSE,India,INR
+Tata Consultancy Services Limited,TCS.NS,NSE,India,INR
+Infosys Limited,INFY.NS,NSE,India,INR
+HDFC Bank Limited,HDFCBANK.NS,NSE,India,INR
+ICICI Bank Limited,ICICIBANK.NS,NSE,India,INR
+Tata Motors Limited,TATAMOTORS.NS,NSE,India,INR
